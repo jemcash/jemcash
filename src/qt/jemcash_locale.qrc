@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/jemcash_bg.qm</file>
+        <file alias="de">locale/jemcash_de.qm</file>
+        <file alias="en">locale/jemcash_en.qm</file>
+        <file alias="es">locale/jemcash_es.qm</file>
+        <file alias="fi">locale/jemcash_fi.qm</file>
+        <file alias="fr">locale/jemcash_fr.qm</file>
+        <file alias="it">locale/jemcash_it.qm</file>
+        <file alias="ja">locale/jemcash_ja.qm</file>
+        <file alias="nl">locale/jemcash_nl.qm</file>
+        <file alias="pl">locale/jemcash_pl.qm</file>
+        <file alias="pt">locale/jemcash_pt.qm</file>
+        <file alias="ru">locale/jemcash_ru.qm</file>
+        <file alias="sk">locale/jemcash_sk.qm</file>
+        <file alias="sv">locale/jemcash_sv.qm</file>
+        <file alias="vi">locale/jemcash_vi.qm</file>
+        <file alias="zh_CN">locale/jemcash_zh_CN.qm</file>
+        <file alias="zh_TW">locale/jemcash_zh_TW.qm</file>
+    </qresource>
+</RCC>

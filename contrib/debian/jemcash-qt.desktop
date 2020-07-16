@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Jemcash Core
+Comment=Jemcash P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Jemcash peer-to-peer Netzwerk
+Comment[fr]=Jemcash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Jemcash, eşten eşe kriptografik sanal para birimi
+Exec=jemcash-qt %u
+Terminal=false
+Type=Application
+Icon=jemcash128
+MimeType=x-scheme-handler/jemcash;
+Categories=Office;Finance;

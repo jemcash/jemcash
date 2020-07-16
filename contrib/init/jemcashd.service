@@ -1,0 +1,22 @@
+[Unit]
+Description=Jemcash's distributed currency daemon
+After=network.target
+
+[Service]
+User=jemcashcore
+Group=jemcashcore
+
+Type=forking
+PIDFile=/var/lib/jemcashd/jemcashd.pid
+ExecStart=/usr/bin/jemcashd -daemon -pid=/var/lib/jemcashd/jemcashd.pid \
+-conf=/etc/jemcashcore/jemcash.conf -datadir=/var/lib/jemcashd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
