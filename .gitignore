@@ -78,7 +78,6 @@ libconftest.dylib*
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
 jemcash-qt
 Jemcash-Qt.app
 
