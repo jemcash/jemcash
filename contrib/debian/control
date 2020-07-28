@@ -26,7 +26,7 @@ Build-Depends: debhelper,
  python,
  libzmq3-dev
 Standards-Version: 3.9.2
-Homepage: https://www.jempay.org/
+Homepage: https://www.jempay.net/
 Vcs-Git: git://github.com/jempay/jemcash.git
 Vcs-Browser: https://github.com/jemcash/jemcash
 

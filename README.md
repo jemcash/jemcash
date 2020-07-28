@@ -5,7 +5,7 @@ JEMCASH Core integration/staging tree
 [![Build Status](https://travis-ci.org/jempay/jemcash.svg?branch=master)](https://travis-ci.org/jempay/jemcash)
 
 
-http://www.jempay.org
+http://www.jempay.net
 
 - Copyright (c) 2009-2015 Bitcoin Developers
 - Copyright (c) 2014-2017 Dash Developers
@@ -21,7 +21,7 @@ are carried out collectively by the network. Jemcash Core is the name of the ope
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Jemcash Core software, see https://www.jempay.org/Find-jemcash/.
+the Jemcash Core software, see https://www.jempay.net/Find-jemcash/.
 
 
 License
@@ -79,4 +79,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also follow the [forum](https://www.jempay.org/forum/topic/jemcash-worldwide-collaboration.88/).
+Translators should also follow the [forum](https://www.jempay.net/forum/topic/jemcash-worldwide-collaboration.88/).

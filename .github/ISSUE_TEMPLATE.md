@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to Jemcash Core.
 
 General Jemcash questions and/or support requests and are best directed to the [Jempay Reddit](https://www.reddit.com/r/jempay/).
 
-To report critical security issues, email infosec@jempay.org instead of creating Github issues.
+To report critical security issues, email infosec@jempay.net instead of creating Github issues.
 
 ### Describe the issue
 

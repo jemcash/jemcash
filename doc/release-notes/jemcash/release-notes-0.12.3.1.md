@@ -3,7 +3,7 @@ Jemcash Core version 0.12.3.1
 
 Release is now available from:
 
-  <https://www.jempay.org/downloads/#wallets>
+  <https://www.jempay.net/downloads/#wallets>
 
 This is a new major version release, bringing new features, various bugfixes and other
 improvements.
@@ -199,7 +199,7 @@ You can read more about all changes in Bitcoin Core 0.13 and 0.14 in following d
 - [release-notes-0.14.2.md](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.14.2.md).
 
 Note that some features were already backported earlier (per-UTXO fix, -assumevalid, GUI overlay etc.) and some were not backported at all
-(SegWit and feefilter, you can read more about why we did so [here](https://blog.jempay.org/segwit-lighting-rbf-in-jemcash-9536868ca861) and [here](https://github.com/jemcash/jemcash/pull/2025)).
+(SegWit and feefilter, you can read more about why we did so [here](https://blog.jempay.net/segwit-lighting-rbf-in-jemcash-9536868ca861) and [here](https://github.com/jemcash/jemcash/pull/2025)).
 The alert system was also kept in place for now. We are going to continue backporting the most notable fixes and improvements from Bitcoin Core versions 0.15 and 0.16 in future releases.
 
 A lot of refactoring, code cleanups and other small fixes were done in this release again. We are going to continue making code more reliable and easier to review in future releases as well.

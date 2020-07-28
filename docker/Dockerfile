@@ -1,5 +1,5 @@
 FROM debian:stretch
-LABEL maintainer="Jemcash Developers <dev@jempay.org>"
+LABEL maintainer="Jemcash Developers <dev@jempay.net>"
 LABEL description="Dockerised JemcashCore, built from Travis"
 
 RUN apt-get update && apt-get -y upgrade && apt-get clean && rm -fr /var/cache/apt/*

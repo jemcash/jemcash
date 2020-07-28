@@ -3,7 +3,7 @@ Jemcash Core version 0.12.3.2
 
 Release is now available from:
 
-  <https://www.jempay.org/downloads/#wallets>
+  <https://www.jempay.net/downloads/#wallets>
 
 This is a new minor version release, bringing various bugfixes and other
 improvements.

@@ -1,7 +1,7 @@
 Jemcash Core 0.12.1
 =====================
 
-This is the official reference wallet for Jemcash digital currency and comprises the backbone of the Jemcash peer-to-peer network. You can [download Jemcash Core](https://www.jempay.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for Jemcash digital currency and comprises the backbone of the Jemcash peer-to-peer network. You can [download Jemcash Core](https://www.jempay.net/downloads/) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
@@ -27,7 +27,7 @@ Drag Jemcash-Qt to your applications folder, and then run Jemcash-Qt.
 * See the [Jemcash documentation](https://jempay.atlassian.net/wiki/display/DOC)
 for help and more information.
 * Ask for help on [Jemcash Nation Discord](http://jemcashchat.org)
-* Ask for help on the [Jemcash Forum](https://jempay.org/forum)
+* Ask for help on the [Jemcash Forum](https://jempay.net/forum)
 
 Building
 ---------------------
@@ -57,7 +57,7 @@ The Jemcash Core repo's [root README](/README.md) contains relevant information 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [Jemcash Forum](https://jempay.org/forum), in the Development & Technical Discussion board.
+* Discuss on the [Jemcash Forum](https://jempay.net/forum), in the Development & Technical Discussion board.
 * Discuss on [Jemcash Nation Discord](http://jemcashchat.org)
 
 ### Miscellaneous
